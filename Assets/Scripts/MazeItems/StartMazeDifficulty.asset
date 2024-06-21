@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b359546160c4db84bac07f13c8fe2264, type: 3}
+  m_Name: StartMazeDifficulty
+  m_EditorClassIdentifier: 
+  algorithm:
+    rid: 5659330713903431680
+  pointCount: 0
+  width: 20
+  height: 20
+  time: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 5659330713903431680
+      type: {class: BacktrackingAlgorithm, ns: , asm: Assembly-CSharp}
+      data: 
